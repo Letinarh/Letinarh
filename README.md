@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Letinarh
-- 👀 I’m interested in JavaScript, Rreact... and Photography.
+- 👋 Hi, I’m Vladimir
+- 👀 I’m interested in JavaScript, Rreact... Photography and motorcycle.
 - 🌱 I’m currently learning JavaScripr & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bukhtavladimir@gmail.com
